@@ -1,0 +1,15 @@
+@import './variables.scss';
+@import './vue-color.scss';
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Ubuntu;
+}
+
+main {
+    width: 100vw;
+    height: 100vh;
+    background: $primary-color;
+}
