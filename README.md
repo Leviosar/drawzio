@@ -1,4 +1,4 @@
-# draw
+# Drawzio
 
 ## Project setup
 ```
